@@ -27,7 +27,7 @@ I'm open to remote roles that overlap with EU or US hours.
 ## 🛠 How I work
 
 ```
-Problem → Research → Figma → AI-assisted build (Claude Code) → Ship on Vercel → Test with users → Iterate
+Problem → Research → Figma → AI-assisted build  → Deploy → Test with users → Iterate
 ```
 
 I own the product and design decisions.
